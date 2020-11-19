@@ -1,8 +1,8 @@
 TERMUX_PKG_MAINTAINER="KimoCoder & Ezmer "
 TERMUX_PKG_HOMEPAGE=https://github.com/aircrack-ng/mdk4
 TERMUX_PKG_DESCRIPTION="MDK is a proof-of-concept tool to exploit common IEEE 802.11 protocol weaknesses."
-TERMUX_PKG_LICENSE="GPL-2.0"
-#1.5.1 (requires autoconf, automake, libtool, shtool, pkg-config (and maybe libstdc and make/gmake) support)
+TERMUX_PKG_LICENSE="GPL-3.0"
+
 
 TERMUX_PKG_VERSION=4.1
 TERMUX_PKG_REVISION=1
